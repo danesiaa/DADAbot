@@ -1,0 +1,12 @@
+{
+  "120363412177569632@g.us": {
+    "commands": false,
+    "welcome": true,
+    "antilink": true
+  },
+  "120363426848703976@g.us": {
+    "commands": false,
+    "welcome": false,
+    "antilink": false
+  }
+}
